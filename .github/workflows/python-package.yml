@@ -41,4 +41,5 @@ jobs:
         echo ".......!"
         echo "welcome....kc-2023.07.19 !"
         echo "calling script.sh file" 
+        chmod +x ./script.sh
         ./script.sh
