@@ -40,3 +40,5 @@ jobs:
         sleep 10
         echo ".......!"
         echo "welcome....kc-2023.07.19 !"
+        echo "calling script.sh file" 
+        ./script.sh
